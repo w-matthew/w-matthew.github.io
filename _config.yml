@@ -21,7 +21,7 @@ repository               : "w-matthew/w-matthew.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-picture.jpg"
+  avatar           : "IMG_1671.jpg"
   name             : "Matthew Wong"
   pronouns         : # example: "she/her"  
   bio              : "EECS student intrested in computer hardware"
