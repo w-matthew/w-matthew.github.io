@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 Welcome to my website! I am a senior at UC Berkeley studying Electrical Engineering and Computer Science, specializing in analog & digital IC design. My experience includes working as an undergraduate research assistant in the Chien Lab @ BSAC and as a data engineering intern at Citylitics this past summer.
+
 Currently, my personal projects involve designing an analog IC driver for an Apple Watch and developing a multi-protocol communication FPGA. In the Chien Lab, I am working on designing a PCB and programming a pipetting robot to help automate 3-electrode system experiments.
+
 When I'm not trying to meet timing constraints or debugging code, you'll find me reading fantasy novels, playing board games, or exploring hypothetical mods for my ThinkPad (both OS and hardware).
 
 A data-driven personal website
