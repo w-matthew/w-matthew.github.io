@@ -11,4 +11,4 @@ Welcome to my website! I am a senior at UC Berkeley studying Electrical Engineer
 
 Currently, my personal projects involve designing an analog IC driver for an Apple Watch and developing a multi-protocol communication FPGA. In the Chien Lab, I am working on designing a PCB and programming a pipetting robot to help automate 3-electrode system experiments.
 
-Outside of school, I enjoy playing in intermural leagues for basketball and soccer, using my Dobsonian telescope to look at the night sky, or reading fantasy novels.
+Outside of school, I enjoy playing in intermural leagues for basketball and soccer, using my Dobsonian telescope to look at the night sky, and reading fantasy novels.
