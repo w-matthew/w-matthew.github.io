@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a senior at UC Berkeley studying Electrical Engineering & Computer Science, specializing in analog and digital IC design. My experience includes working as an undergraduate research assistant in the Chien Lab @ [BSAC](https://bsac.berkeley.edu/) and as a data engineering intern at [Citylitics](https://citylitics.com/) this past summer.
+Welcome to my website! I'm a graduate student at USC studying Electrical Engineering, specializing in analog and digital IC design. My experience includes working as a Design Verification Intern at Celestial AI, and undergraduate researcher in the Chien Lab @ [BSAC](https://bsac.berkeley.edu/).
 
-Currently, my personal projects involve designing an analog IC driver for an Apple Watch and developing a multi-protocol communication FPGA. In the Chien Lab, I am working on designing a PCB and programming a pipetting robot to help automate 3-electrode system experiments.
+In 2026, I'm looking to build from my analog IC coursework by gaining experience through an internship in AMS design.
 
-Outside of school, I enjoy playing in intermural leagues for basketball and soccer, using my Dobsonian telescope to look at the night sky, and reading fantasy novels.
+Outside of school, I enjoy playing in intermural leagues for basketball, using my Dobsonian telescope to look at the night sky, and playing chess.
